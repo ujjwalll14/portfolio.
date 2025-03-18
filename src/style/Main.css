@@ -1,0 +1,10 @@
+body{
+    background: #000;
+    color: white;
+}
+#yellow{
+    color: rgb(251, 251, 75);
+}
+#blue{
+    color: rgb(39, 39, 250);
+}
